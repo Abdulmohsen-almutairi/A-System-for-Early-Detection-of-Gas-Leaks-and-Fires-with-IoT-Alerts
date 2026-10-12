@@ -230,7 +230,7 @@ gas-leak-fire-iot-alert-system/
 │
 ├── .gitignore
 │
-└── LICENSE
+└── poster.pdf
 ```
 
 This structure is a recommendation. Replace example filenames with the actual files included in the repository. Do not include files that do not exist.
