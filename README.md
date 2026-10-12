@@ -211,8 +211,7 @@ gas-leak-fire-iot-alert-system/
 │
 ├── README.md
 │
-├── report/
-│   └── project-summary.pdf
+├── Graduation Report Ver [3].pdf
 │
 ├── src/
 │   └── main.ino
@@ -224,7 +223,10 @@ gas-leak-fire-iot-alert-system/
 ├── images/
 │   ├── system-overview.png
 │   ├── hardware-prototype.jpg
-│   └── system-testing.jpg
+│   └── system-testing/
+│         └── System Output in Normal State.png
+│         └── System Output in Warning State.png
+│          └── System Output in Danger State with IoT Notification.png
 │
 ├── .gitignore
 │
