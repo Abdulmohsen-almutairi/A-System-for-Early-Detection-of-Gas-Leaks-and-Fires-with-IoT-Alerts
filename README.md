@@ -376,16 +376,6 @@ When proposing changes, document hardware modifications, software dependencies, 
 
 ---
 
-## License
-
-No license has been specified for this repository.
-
-Before distributing or reusing the source code, documentation, diagrams, or other project materials, confirm that the project contributors and relevant university policies permit publication.
-
-Once the appropriate permissions have been confirmed, add the selected license file to the repository.
-
----
-
 ## Acknowledgment
 
 This graduation project demonstrates the application of embedded systems and Internet of Things technology to environmental monitoring and safety alerts.
